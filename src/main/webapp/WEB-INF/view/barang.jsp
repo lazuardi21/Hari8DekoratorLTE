@@ -233,9 +233,7 @@
 					<div>
 					<div class="box-body">
 						<table id="tabelBarang" class="table table-bordered table-striped">
-						</div>
-						<div> 
-						
+					
 						</div>
 							<thead>
 								<tr>
